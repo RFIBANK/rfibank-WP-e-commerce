@@ -4,7 +4,7 @@
 
 	• установить в Wordpress плагин WP Commerce и активировать его в настройках;
 	
-	• скопировать файл rficb.php из архива в директорию /wp-content/plugins/wp-e-commerce/wpsc-merchants/;
+	• скопировать файл rficb.php в директорию /wp-content/plugins/wp-e-commerce/wpsc-merchants/;
 	
 	• установить соответствующие права на файл, обычно это 664.
 
